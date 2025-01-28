@@ -75,3 +75,5 @@ Training History Visualization: The plot_history function generates graphs for b
 The code provides an efficient and straightforward approach to building a CNN for image classification tasks. It not only demonstrates how to construct and train a CNN but also incorporates essential techniques like dropout for regularization and data normalization for improved performance. The model can serve as a starting point for more complex image classification projects or as a foundation for research in deep learning applications.
 
 **###OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/5c8b0308-da8f-4cc4-81e1-042d99dcc6df)
